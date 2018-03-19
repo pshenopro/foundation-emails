@@ -2,14 +2,13 @@
 emails css/sass
 
 
-
+<!-- 
 MASTER INKY
-
-<container>
-  <row>
-    <columns>This is a column.</columns>
-  </row>
-</container>
+container
+  row
+    columns(This is a column.)/columns
+  /row
+/container
 
 
 /////////////////////////////////////////
@@ -38,4 +37,6 @@ Final HTML
       </td>
     </tr>
   </tbody>
-</table>
+</table> 
+-->
+
