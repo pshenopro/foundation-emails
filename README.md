@@ -4,7 +4,7 @@ emails css/sass
 
 <br>
 <br>
-!["first.jpg"]()
+<img src="first.jpg" alt="">
 <br>
 <br>
-!["second.jpg"]()
+<img src="second.jpg" alt="">
